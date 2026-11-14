@@ -2,6 +2,10 @@
 
 A simple and responsive task management application built with React, JavaScript, and Vite. The application allows users to manage their daily tasks through a clean and user-friendly interface.
 
+## Live Demo
+
+[View Live Application](https://cosmic-scone-0c19ea.netlify.app/)
+
 ## Features
 
 - **Add Tasks:** Create new tasks easily.
