@@ -28,7 +28,7 @@ A simple and responsive task management application built with React, JavaScript
 
 1. Clone the repository:
 
-   `git clone https://github.com/YOUR_USERNAME/task-manager.git`
+   `git clone https://github.com/schzoid/task-manager.git`
 
 2. Navigate to the project directory:
 
